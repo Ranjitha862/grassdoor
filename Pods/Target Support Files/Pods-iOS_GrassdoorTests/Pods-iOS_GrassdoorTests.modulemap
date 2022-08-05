@@ -1,0 +1,6 @@
+framework module Pods_iOS_GrassdoorTests {
+  umbrella header "Pods-iOS_GrassdoorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
