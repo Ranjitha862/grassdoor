@@ -1,6 +1,0 @@
-framework module Pods_iOS_Grassdoor {
-  umbrella header "Pods-iOS_Grassdoor-umbrella.h"
-
-  export *
-  module * { export * }
-}
